@@ -4,7 +4,7 @@
 	{src:"./images/2.jpg",desc:"赤岳鉱泉付近",date:"2020/1/18"},
 	{src:"./images/3.jpg",desc:"鳴虫山ハイク/帰路",date:"2020/11/15"},
 	{src:"./images/4.jpg",desc:"三国山",date:"2020/11/7"},
-	{src:"./images/5.jpg",desc:"筑波山/下山後",date:"2020/1/4"},
+	{src:"./images/5.JPG",desc:"筑波山/下山後",date:"2020/1/4"},
 	{src:"./images/6.jpg",desc:"石垣島",date:"2023/3/9"},
 	{src:"./images/7.jpg",desc:"日光白根山",date:"2020/12/14"},
 	{src:"./images/8.jpg",desc:"牛奥ノ雁ヶ腹摺山",date:"2020/11/16"},
